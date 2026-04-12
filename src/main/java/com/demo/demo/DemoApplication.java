@@ -14,6 +14,7 @@ public class DemoApplication {
 		Pro.One();
 		Pro1.One();
 		Pro2.m1();
+		System.out.println("amed");
 	}
 
 }
