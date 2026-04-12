@@ -13,6 +13,7 @@ public class DemoApplication {
 		System.out.println("heloo");
 		Pro.One();
 		Pro1.One();
+		Pro2.m1();
 	}
 
 }
