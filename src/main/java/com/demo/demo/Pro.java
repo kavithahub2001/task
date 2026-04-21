@@ -6,5 +6,6 @@ import org.springframework.stereotype.Component;
 public class Pro {
     public static void One(){
         System.out.println("One");
+        System.out.println("ice cream");
     }
 }
