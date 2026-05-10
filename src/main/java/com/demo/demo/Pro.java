@@ -5,8 +5,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class Pro {
     public static void One(){
-        System.out.println("1");
-        System.out.println("2");
-        System.out.println("4");
+        int a=10,b=20,c;
+        c=a+b;
+        System.out.println(c);
     }
 }
