@@ -13,10 +13,15 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		List<Integer> l= new ArrayList<>();
 		l.add(1);
-		l.add(2);
+		Pro.One();
 		l.add(3);
 		System.out.println(l);
 		Pro4.One();
+		System.out.println("hi world!!!");
+		System.out.println("ice cream");
+		System.out.println("heloo");
+		int a=100;
+		System.out.println(a);
 	}
 
 }
