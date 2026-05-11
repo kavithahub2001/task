@@ -13,7 +13,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		List<Integer> l= new ArrayList<>();
 		l.add(1);
-		l.add(2);
+		Pro.One();
 		System.out.println(l);
 		System.out.println("amed");
 		System.out.println("hi world!!!");
