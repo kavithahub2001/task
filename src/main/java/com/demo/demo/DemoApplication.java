@@ -20,8 +20,7 @@ public class DemoApplication {
 		System.out.println("hi world!!!");
 		System.out.println("ice cream");
 		System.out.println("heloo");
-		int a=100;
-		System.out.println(a);
+
 	}
 
 }
