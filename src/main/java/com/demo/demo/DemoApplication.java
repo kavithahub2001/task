@@ -14,8 +14,9 @@ public class DemoApplication {
 		List<Integer> l= new ArrayList<>();
 		l.add(1);
 		Pro.One();
+		l.add(3);
 		System.out.println(l);
-		System.out.println("amed");
+		Pro4.One();
 		System.out.println("hi world!!!");
 		System.out.println("ice cream");
 		System.out.println("heloo");
