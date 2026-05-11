@@ -11,10 +11,8 @@ public class DemoApplication {
 		System.out.println("hi world!!!");
 		System.out.println("ice cream");
 		System.out.println("heloo");
-		Pro.One();
-		Pro1.One();
-		Pro2.m1();
-		System.out.println("amed");
+		int a=100;
+		System.out.println(a);
 	}
 
 }
