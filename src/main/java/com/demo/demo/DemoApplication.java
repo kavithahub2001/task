@@ -11,10 +11,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("hi world!!!");
-		System.out.println("ice cream");
-		System.out.println("heloo");
 		List<Integer> l= new ArrayList<>();
+		l.add(1);
+		l.add(2);
+		System.out.println(l);
 		System.out.println("amed");
 	}
 
